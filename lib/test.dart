@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_article/ccc_carousel_slider_page.dart';
-import 'package:widgets_article/ccc_parallax_scrolling_page.dart';
-import 'package:widgets_article/homla_split_screen_page.dart';
-import 'package:widgets_article/ikea_grid_page.dart';
+//import 'package:widgets_article/ccc_carousel_slider_page.dart';
+//import 'package:widgets_article/ccc_parallax_scrolling_page.dart';
+//import 'package:widgets_article/homla_split_screen_page.dart';
+//import 'package:widgets_article/ikea_grid_page.dart';
 
 void main() => runApp(const MyApp());
 
