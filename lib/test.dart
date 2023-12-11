@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: [
+            /* children: [
               _articlePageButton(
                 'CCC Product Details',
                 const CCCParallaxScrollingPage(),
@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 'Homla',
                 const HomlaSplitScreenPage(),
               ),
-            ],
+            ],*/
           ),
         ),
       );
